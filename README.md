@@ -2,7 +2,7 @@
 
 Jeu éducatif d'aventure et de construction pour le **CE1 à la 6ᵉ**, 7-12 ans.
 Dix époques réelles, soixante missions sourcées, un village qui grandit.
-Sans publicité, sans achat intégré, sans note.
+Sans publicité, sans classement, sans note.
 
 ---
 
