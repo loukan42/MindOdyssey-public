@@ -4,7 +4,18 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MindOdyssey · Le jeu d’aventure éducatif du CE1 à la 6e</title>
-    <meta name="description" content="Explorez dix mondes historiques et résolvez soixante missions faisant appel aux notions du CE1 à la 6e. Un village grandit de tout ce que votre enfant y apprend." />
+    <!--
+      81 est remplacé à la compilation par le plugin `comptesDuCorpus` de
+      `vite.config.ts`, qui lit `src/corpus.json` — généré par
+      `python3 tools/build_catalog.py` en même temps que MANIFEST.md.
+
+      Ce bloc portait « résolvez soixante missions », SANS le mot « écrites », quand
+      le corpus en comptait 79 : deux fautes dans le texte que lisent les moteurs de
+      recherche, dont l'une est exactement la formulation que la règle 2 de
+      `src/App.tsx` s'interdit à elle-même. Un jeton non substitué reste visible dans
+      le HTML produit — l'échec est bruyant, pas silencieux.
+    -->
+    <meta name="description" content="Explorez dix mondes historiques et découvrez 81 missions écrites, faisant appel à des notions scolaires du CE1 à la 6e. Un village grandit de tout ce que votre enfant y apprend." />
     <meta name="theme-color" content="#050d20" />
     <meta name="color-scheme" content="dark" />
     <!--
@@ -22,7 +33,7 @@
     <meta property="og:site_name" content="MindOdyssey" />
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:title" content="MindOdyssey · Le jeu d’aventure éducatif du CE1 à la 6e" />
-    <meta property="og:description" content="Dix mondes historiques, soixante missions écrites, un village qui grandit. Pour les 7-12 ans, du CE1 à la 6e." />
+    <meta property="og:description" content="Dix mondes historiques, 81 missions écrites, un village qui grandit. Pour les 7-12 ans, du CE1 à la 6e." />
     <meta property="og:url" content="https://loukan42.github.io/MindOdyssey-public/" />
     <meta property="og:image" content="https://loukan42.github.io/MindOdyssey-public/theme/partage.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
@@ -32,8 +43,8 @@
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="canonical" href="https://loukan42.github.io/MindOdyssey-public/" />
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <script type="module" crossorigin src="./assets/app.js?v=a2f03578"></script>
-    <link rel="stylesheet" crossorigin href="./assets/style.css?v=f3b4e35c">
+    <script type="module" crossorigin src="./assets/app.js?v=638f67f9"></script>
+    <link rel="stylesheet" crossorigin href="./assets/style.css?v=d397f424">
   </head>
   <body>
     <div id="root"></div>
