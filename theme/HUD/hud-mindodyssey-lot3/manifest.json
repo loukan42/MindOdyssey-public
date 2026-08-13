@@ -1,0 +1,68 @@
+{
+  "mission/bandeau-consigne.png": {
+    "taille": [
+      1024,
+      192
+    ],
+    "source": "direct crop/cleanup from single LOT 3 source preview",
+    "alpha": true,
+    "etats": null
+  },
+  "mission/liste-objectifs.png": {
+    "taille": [
+      512,
+      1024
+    ],
+    "source": "direct crop/cleanup from single LOT 3 source preview",
+    "alpha": true,
+    "etats": null
+  },
+  "mission/puce-objectif-a-faire.png": {
+    "taille": [
+      128,
+      128
+    ],
+    "source": "direct crop/cleanup from single LOT 3 source preview",
+    "alpha": true,
+    "etats": [
+      "a-faire",
+      "fait"
+    ]
+  },
+  "mission/puce-objectif-fait.png": {
+    "taille": [
+      128,
+      128
+    ],
+    "source": "direct crop/cleanup from single LOT 3 source preview",
+    "alpha": true,
+    "etats": [
+      "a-faire",
+      "fait"
+    ]
+  },
+  "mission/jeton-indice-disponible.png": {
+    "taille": [
+      256,
+      256
+    ],
+    "source": "direct crop/cleanup from single LOT 3 source preview",
+    "alpha": true,
+    "etats": [
+      "disponible",
+      "utilise"
+    ]
+  },
+  "mission/jeton-indice-utilise.png": {
+    "taille": [
+      256,
+      256
+    ],
+    "source": "direct crop/cleanup from single LOT 3 source preview",
+    "alpha": true,
+    "etats": [
+      "disponible",
+      "utilise"
+    ]
+  }
+}

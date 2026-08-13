@@ -1,0 +1,122 @@
+{
+  "touches/bouton-repos.png": {
+    "mode": "RGBA",
+    "size": [
+      483,
+      180
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/bouton-survol.png": {
+    "mode": "RGBA",
+    "size": [
+      486,
+      181
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/bouton-enfonce.png": {
+    "mode": "RGBA",
+    "size": [
+      479,
+      179
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/bouton-rond-repos.png": {
+    "mode": "RGBA",
+    "size": [
+      314,
+      306
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/bouton-rond-survol.png": {
+    "mode": "RGBA",
+    "size": [
+      309,
+      305
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/bouton-rond-enfonce.png": {
+    "mode": "RGBA",
+    "size": [
+      311,
+      309
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/interrupteur-off.png": {
+    "mode": "RGBA",
+    "size": [
+      370,
+      186
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/interrupteur-on.png": {
+    "mode": "RGBA",
+    "size": [
+      373,
+      185
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/case-vide.png": {
+    "mode": "RGBA",
+    "size": [
+      181,
+      187
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/case-cochee.png": {
+    "mode": "RGBA",
+    "size": [
+      181,
+      187
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/curseur-piste.png": {
+    "mode": "RGBA",
+    "size": [
+      1183,
+      170
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "source_match": "direct crop, no regeneration, no redraw"
+  },
+  "touches/curseur-poignee.png": {
+    "mode": "RGBA",
+    "size": [
+      229,
+      236
+    ],
+    "alpha_min": 0,
+    "alpha_max": 253,
+    "source_match": "direct crop, no regeneration, no redraw"
+  }
+}

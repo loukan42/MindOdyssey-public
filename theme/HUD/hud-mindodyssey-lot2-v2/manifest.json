@@ -1,0 +1,74 @@
+{
+  "touches/bouton-repos.png": {
+    "width": 483,
+    "height": 180,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/bouton-survol.png": {
+    "width": 486,
+    "height": 181,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/bouton-enfonce.png": {
+    "width": 479,
+    "height": 179,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/bouton-rond-repos.png": {
+    "width": 314,
+    "height": 306,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/bouton-rond-survol.png": {
+    "width": 309,
+    "height": 305,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/bouton-rond-enfonce.png": {
+    "width": 311,
+    "height": 309,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/interrupteur-off.png": {
+    "width": 370,
+    "height": 186,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/interrupteur-on.png": {
+    "width": 373,
+    "height": 185,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/case-vide.png": {
+    "width": 181,
+    "height": 187,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/case-cochee.png": {
+    "width": 181,
+    "height": 187,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/curseur-piste.png": {
+    "width": 1183,
+    "height": 170,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  },
+  "touches/curseur-poignee.png": {
+    "width": 229,
+    "height": 236,
+    "source": "direct crop from approved LOT 2 preview",
+    "alpha": true
+  }
+}

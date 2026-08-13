@@ -1,0 +1,26 @@
+{
+  "panneau-dialogue.png": {
+    "width": 1478,
+    "height": 411,
+    "source": "direct crop from approved LOT 1 preview",
+    "alpha": true
+  },
+  "panneau-simple.png": {
+    "width": 573,
+    "height": 546,
+    "source": "direct crop from approved LOT 1 preview",
+    "alpha": true
+  },
+  "cartouche.png": {
+    "width": 947,
+    "height": 198,
+    "source": "direct crop from approved LOT 1 preview",
+    "alpha": true
+  },
+  "separateur.png": {
+    "width": 883,
+    "height": 146,
+    "source": "direct crop from approved LOT 1 preview",
+    "alpha": true
+  }
+}

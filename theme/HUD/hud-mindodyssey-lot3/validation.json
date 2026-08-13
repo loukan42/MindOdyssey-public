@@ -1,0 +1,98 @@
+{
+  "mission/bandeau-consigne.png": {
+    "mode": "RGBA",
+    "taille": [
+      1024,
+      192
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "bbox_alpha": [
+      16,
+      48,
+      1022,
+      144
+    ],
+    "opaque_ratio": 0.38588
+  },
+  "mission/liste-objectifs.png": {
+    "mode": "RGBA",
+    "taille": [
+      512,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "bbox_alpha": [
+      2,
+      163,
+      510,
+      861
+    ],
+    "opaque_ratio": 0.61249
+  },
+  "mission/puce-objectif-a-faire.png": {
+    "mode": "RGBA",
+    "taille": [
+      128,
+      128
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "bbox_alpha": [
+      7,
+      2,
+      120,
+      126
+    ],
+    "opaque_ratio": 0.423096
+  },
+  "mission/puce-objectif-fait.png": {
+    "mode": "RGBA",
+    "taille": [
+      128,
+      128
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "bbox_alpha": [
+      7,
+      2,
+      120,
+      126
+    ],
+    "opaque_ratio": 0.423096
+  },
+  "mission/jeton-indice-disponible.png": {
+    "mode": "RGBA",
+    "taille": [
+      256,
+      256
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "bbox_alpha": [
+      18,
+      4,
+      238,
+      252
+    ],
+    "opaque_ratio": 0.574112
+  },
+  "mission/jeton-indice-utilise.png": {
+    "mode": "RGBA",
+    "taille": [
+      256,
+      256
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "bbox_alpha": [
+      18,
+      4,
+      238,
+      252
+    ],
+    "opaque_ratio": 0.574112
+  }
+}
