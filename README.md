@@ -1,5 +1,7 @@
 # MindOdyssey — page de présentation
 
+[Voir la présentation de MindOdyssey](https://loukan42.github.io/MindOdyssey-public/)
+
 Jeu éducatif d'aventure et de construction pour le **CE1 à la 6ᵉ**, 7-12 ans.
 Dix époques réelles, soixante missions sourcées, un village qui grandit.
 Sans classement entre enfants, sans note, sans compte à créer pour l’enfant.
